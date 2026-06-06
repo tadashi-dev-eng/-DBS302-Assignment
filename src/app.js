@@ -18,7 +18,7 @@ const swaggerOptions = {
   definition: {
     openapi: '3.0.0',
     info: {
-      title: 'Tashi Shop',
+      title: 'MongoDB & Redis API Documentation',
       version: '1.0.0',
       description: 'Interactive API documentation for testing MongoDB & Redis data layer integration.',
     },
